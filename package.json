@@ -1,0 +1,32 @@
+{
+  "name": "vinted.js",
+  "version": "1.0.6",
+  "description": "a small vinted wrapper for item lookup",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YajPinkNinja/vinted.js"
+  },
+  "keywords": [
+    "vinted",
+    "api"
+  ],
+  "author": "Yaj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YajPinkNinja/vinted.js/issues"
+  },
+  "homepage": "https://github.com/YajPinkNinja/vinted.js#readme",
+  "dependencies": {
+    "better-sqlite3": "^8.0.1",
+    "cookie": "^0.5.0",
+    "discord.js": "^13.1.0",
+    "node-fetch": "^3.2.10",
+    "quick.db": "^9.0.8",
+    "user-agents": "^1.0.1133"
+  }
+}
