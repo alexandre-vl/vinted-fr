@@ -1,6 +1,9 @@
 [
   {
     "channelId": "1065652650164617259",
-    "prompt": "sweat nike"
+    "params": {
+      "catalogId": "79",
+      "brandId": "53"
+    }
   }
 ]
