@@ -23,9 +23,9 @@ client.on("ready", async () => {
       console.log(channel.channelId)
       const channelToSend = client.channels.cache.get(channel.channelId);
 
-      let articles = await vintedSearch(channel.params);
+      let articles = await vintedSearch(channel.params) ?? { items: [] };
       let currentArticles = await db.get("vinted");
-      let newArticles = articles.items.filter((i) => !currentArticles[i.id]);
+      let newArticles = articles.items?.filter((i) => !currentArticles[i.id]);
 
       console.log(newArticles.length + ' new articles found.')
 
