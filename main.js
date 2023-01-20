@@ -14,6 +14,7 @@ client.on("ready", async () => {
     db.set("vinted", {});
   }
 
+
   setInterval(async () => {
 
     console.log('Searching for new articles...')
@@ -22,13 +23,14 @@ client.on("ready", async () => {
       console.log(channel.channelId)
       const channelToSend = client.channels.cache.get(channel.channelId);
 
-      let articles = await vintedSearch(channel.prompt);
+      let articles = await vintedSearch(channel.params);
       let currentArticles = await db.get("vinted");
       let newArticles = articles.items.filter((i) => !currentArticles[i.id]);
 
       console.log(newArticles.length + ' new articles found.')
 
-      for (let item of articles.items) {
+      for (let i = 0; i < 5; i++) {
+        let item = articles.items[i];
         if (!currentArticles[item.id]) {
           currentArticles[item.id] = item;
           channelToSend.send({

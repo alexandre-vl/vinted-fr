@@ -1,55 +1,69 @@
 [
   {
     "channelId": "1065652650164617259",
-    "prompt": "sweat nike"
-  }
+    "params": {
+      "catalogId": "79",
+      "brandId": "53"
+    }
+  },
+
   {
     "channelId": "1065652650428878848",
-    "prompt": "t=shirt nike"
-  }
+    "params": {
+      "catalogId": "12",
+      "brandId": "53"
+    }
+  },
+
+  {
+    "channelId": "1066093267982229566",
+    "params": {
+      "catalogId": "16",
+      "brandId": "11199"
+    }
+  },
+
   {
     "channelId": "1065652650428878851",
-    "prompt": "gilet ralph lauren"
-  }
+    "params": {
+      "catalogId": "1548",
+      "brandId": "88"
+    }
+  },
   {
     "channelId": "1065652650428878852",
-    "prompt": "casquette raplh lauren"
-  }
+    "params": {
+      "catalogId": "88",
+      "brandId": "94"
+    }
+  },
   {
     "channelId": "1065652650428878854",
-    "prompt": "cargo carhartt"
-  }
+    "params": {
+      "catalogId": "1103",
+      "brandId": "362"
+    }
+  },
   {
-    "channelId": "1065652650164617259",
-    "prompt": "sweat carhartt"
-  }
+    "channelId": "1065652650428878855",
+    "params": {
+      "catalogId": "577",
+      "brandId": "362"
+    }
+  },
   {
     "channelId": "1065652650428878856",
-    "prompt": "jean boyfriend"
-  }
+    "params": {
+      "catalogId": "1839",
+      "brandId": "362"
+    }
+  },
   {
     "channelId": "1065652650428878857",
-    "prompt": "pantalon carpenter"
+    "params": {
+      "catalogId": "183",
+      "brandId": "362"
+    }
   }
-  {
-    "channelId": "1065654567343227030",
-    "prompt": "jean coupe droite"
-  }
-  {
-    "channelId": "1065655011582947459",
-    "prompt": "jean double knee"
-  }
-  {
-    "channelId": "1065655667614023712",
-    "prompt": "gilet carhartt"
-  }
-  {
-    "channelId": "1065655959877324892",
-    "prompt": "veste impermeable carhartt"
-  }
-  {
-    "channelId": "1065656077930209401",
-    "prompt": "sacoche carhartt"
-  }
- 
+
 ]
