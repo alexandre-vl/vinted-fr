@@ -6,7 +6,6 @@
       "brandId": "53"
     }
   },
-
   {
     "channelId": "1065652650428878848",
     "params": {
@@ -14,7 +13,6 @@
       "brandId": "53"
     }
   },
-
   {
     "channelId": "1066093267982229566",
     "params": {
@@ -22,7 +20,6 @@
       "brandId": "11199"
     }
   },
-
   {
     "channelId": "1065652650428878851",
     "params": {
@@ -34,7 +31,7 @@
     "channelId": "1065652650428878852",
     "params": {
       "catalogId": "88",
-      "brandId": "94"
+      "brandId": "88"
     }
   },
   {
@@ -59,11 +56,108 @@
     }
   },
   {
+    "channelId": "1065652650772791313",
+    "params": {
+      "catalogId": "577",
+      "brandId": "304"
+    }
+  },
+  {
+    "channelId": "1065652650772791314",
+    "params": {
+      "catalogId": "1809",
+      "brandId": "304"
+    }
+  },
+  {
+    "channelId": "1065652650948972695",
+    "params": {
+      "catalogId": "13",
+      "brandId": "2319"
+    }
+  },
+  {
+    "channelId": "1065652650948972696",
+    "params": {
+      "catalogId": "12",
+      "brandId": "2319"
+    }
+  },
+  {
+    "channelId": "1065652650948972697",
+    "params": {
+      "catalogId": "1037",
+      "brandId": "2319"
+    }
+  },
+  {
     "channelId": "1065652650428878857",
     "params": {
       "catalogId": "183",
       "brandId": "362"
     }
+  },
+  {
+    "channelId": "1065652650948972699",
+    "params": {
+      "catalogId": "13",
+      "brandId": "11"
+    }
+  },
+  {
+    "channelId": "1065652650948972700",
+    "params": {
+      "catalogId": "12",
+      "brandId": "11"
+    }
+  },
+  {
+    "channelId": "1065652651171266564",
+    "params": {
+      "catalogId": "13",
+      "brandId": "94"
+    }
+  },
+  {
+    "channelId": "1065652651171266563",
+    "params": {
+      "catalogId": "88",
+      "brandId": "94"
+    }
+  },
+  {
+    "channelId": "1065656077930209401",
+    "params": {
+      "catalogId": "94",
+      "brandId": "362"
+    }
+  },
+  {
+    "channelId": "1065655959877324892",
+    "params": {
+      "catalogId": "1079",
+      "brandId": "362"
+    }
+  },
+  {
+    "channelId": "1065655667614023712",
+    "params": {
+      "catalogId": "1551",
+      "brandId": "362"
+    }
+  },
+  {
+    "channelId": "1065654567343227030",
+    "params": {
+      "catalogId": "1845",
+      "brandId": "362"
+    }
+  },
+  {
+    "channelId": "1065652651171266565",
+    "params": {
+      "catalogId": "12",
+      "brandId": "94"
+    }
   }
-
 ]
